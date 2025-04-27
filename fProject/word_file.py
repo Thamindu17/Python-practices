@@ -1,0 +1,11 @@
+words=[
+    "hello",
+    "apple",
+    "speech",
+    "beautiful",
+    "hangman",
+    "keyboard",
+    "cupboard",
+    "razor",
+    "mouse"
+]
